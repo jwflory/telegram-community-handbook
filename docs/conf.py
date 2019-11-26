@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sphinx-docs-opinionated-quickstart'
+project = 'telegram-community-handbook'
 copyright = '2018, Justin W. Flory'
 author = 'Justin W. Flory'
 
@@ -115,7 +115,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'sphinx-docs-opinionated-quickstartdoc'
+htmlhelp_basename = 'telegram-community-handbookdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -142,7 +142,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'sphinx-docs-opinionated-quickstart.tex', 'sphinx-docs-opinionated-quickstart Documentation',
+    (master_doc, 'telegram-community-handbook.tex', 'telegram-community-handbook Documentation',
      'Justin W. Flory', 'manual'),
 ]
 
@@ -152,7 +152,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'sphinx-docs-opinionated-quickstart', 'sphinx-docs-opinionated-quickstart Documentation',
+    (master_doc, 'telegram-community-handbook', 'telegram-community-handbook Documentation',
      [author], 1)
 ]
 
@@ -163,8 +163,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'sphinx-docs-opinionated-quickstart', 'sphinx-docs-opinionated-quickstart Documentation',
-     author, 'sphinx-docs-opinionated-quickstart', 'One line description of project.',
+    (master_doc, 'telegram-community-handbook', 'telegram-community-handbook Documentation',
+     author, 'telegram-community-handbook', 'One line description of project.',
      'Miscellaneous'),
 ]
 

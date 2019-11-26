@@ -1,34 +1,20 @@
-sphinx-docs-opinionated-quickstart
-==================================
+telegram-community-handbook
+===========================
 
 [![License: BSD 3-Clause License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Build Status](https://travis-ci.com/jwflory/sphinx-docs-opinionated-quickstart.svg?branch=master)](https://travis-ci.com/jwflory/sphinx-docs-opinionated-quickstart)
+[![Build Status](https://travis-ci.com/jwflory/telegram-community-handbook.svg?branch=master)](https://travis-ci.com/jwflory/telegram-community-handbook)
 
-Quick-start, opinionated template repository to add [Sphinx-based documentation](http://www.sphinx-doc.org/) to an existing project
+Curation of best practices, tips, and advice for managing [Telegram](https://telegram.org/)-based online communities
 
 
 ## About
 
-This repository is a working implementation of a documentation toolchain powered by [Sphinx](http://www.sphinx-doc.org/).
-Use these files to quickly set up Sphinx inside of an existing project.
-For convenience, most of the special sauce is inside the `docs/` directory, so you can copy it straight into another project.
-
-### "But I thought Sphinx had a quickstart tool already."
-
-Yes, it does.
-But I have opinions.
-And I am lazy.
-So, when I am starting a new project, I want to use a preferred configuration instead of starting from the ground up.
-Sometimes, you may want to start from the ground up.
-So try that first if you like.
-
-But if you are like me, and want to do more writing and less configuring, make your life easier and use a common base.
-This repo is all about getting you to spend more time on what deserves your time, not getting lost in configuration options. :tada:
+This repository is a collection of advice, best practices, and tips for managing Telegram groups.
+The intention is to make this a useful resource for people who are either new to managing Telegram communities or manage large-sized communities.
+Most of the advice in this handbook is curated from Justin's personal experiences using Telegram for over five years.
 
 
-## About reusing this repo
+## Legal
 
 This repository is licensed under the [BSD 3-Clause License](https://choosealicense.com/licenses/bsd-3-clause/ "BSD 3-Clause “New” or “Revised” License").
 Reuse anything you want in your own projects.
-If you use this quickstart repo in a public repository, a link back here in your README is appreciated. :+1:
-

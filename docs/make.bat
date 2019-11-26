@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=sphinx-docs-opinionated-quickstart
+set SPHINXPROJ=telegram-community-handbook
 
 if "%1" == "" goto help
 
